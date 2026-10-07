@@ -1,37 +1,34 @@
 fileFormatVersion: 2
-guid: 2304e0e756ed5f34d97f1f1b8a01a7f4
+guid: b1fee11649a6510429a9fb7cbd3ef076
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1801437427539667758
-    second: ss_ryker_run_left_01_0
+      213: -1378701238155959880
+    second: ss_ryker_idle_01_left_0
   - first:
-      213: 7767017499431808726
-    second: ss_ryker_run_left_01_1
+      213: -2693439739631577844
+    second: ss_ryker_idle_01_left_1
   - first:
-      213: -9136306596876711527
-    second: ss_ryker_run_left_01_2
+      213: -159675995204410127
+    second: ss_ryker_idle_01_left_2
   - first:
-      213: -2382581469449238470
-    second: ss_ryker_run_left_01_3
+      213: 6391166302279313953
+    second: ss_ryker_idle_01_left_3
   - first:
-      213: 5381788635700475542
-    second: ss_ryker_run_left_01_4
+      213: 4104900628962574164
+    second: ss_ryker_idle_01_left_4
   - first:
-      213: 332185237841278473
-    second: ss_ryker_run_left_01_5
+      213: -6529610248554895013
+    second: ss_ryker_idle_01_left_5
   - first:
-      213: 2057009924718882464
-    second: ss_ryker_run_left_01_6
+      213: -3156844722054966006
+    second: ss_ryker_idle_01_left_6
   - first:
-      213: 5225797966815646188
-    second: ss_ryker_run_left_01_7
+      213: 6221885390416974451
+    second: ss_ryker_idle_01_left_7
   - first:
-      213: -8152545357531036789
-    second: ss_ryker_run_left_01_8
-  - first:
-      213: -2204266313689298860
-    second: ss_ryker_run_left_01_9
+      213: -1217692714399540637
+    second: ss_ryker_idle_01_left_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -140,7 +137,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_0
+      name: ss_ryker_idle_01_left_0
       rect:
         serializedVersion: 2
         x: 0
@@ -155,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d4976e34320007e0800000000000000
-      internalID: -1801437427539667758
+      spriteID: 8b1a250578edddce0800000000000000
+      internalID: -1378701238155959880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_1
+      name: ss_ryker_idle_01_left_1
       rect:
         serializedVersion: 2
         x: 64
@@ -177,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6de20e9a34df9cb60800000000000000
-      internalID: 7767017499431808726
+      spriteID: c05d657c3dafe9ad0800000000000000
+      internalID: -2693439739631577844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_2
+      name: ss_ryker_idle_01_left_2
       rect:
         serializedVersion: 2
         x: 128
@@ -199,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9990b1e6e81553180800000000000000
-      internalID: -9136306596876711527
+      spriteID: 1f42fa24787b8cdf0800000000000000
+      internalID: -159675995204410127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_3
+      name: ss_ryker_idle_01_left_3
       rect:
         serializedVersion: 2
         x: 192
@@ -221,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a38cc09e6ce5feed0800000000000000
-      internalID: -2382581469449238470
+      spriteID: 12a2ecbd3ebf1b850800000000000000
+      internalID: 6391166302279313953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_4
+      name: ss_ryker_idle_01_left_4
       rect:
         serializedVersion: 2
         x: 256
@@ -243,14 +240,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 696392f0044ffaa40800000000000000
-      internalID: 5381788635700475542
+      spriteID: 45f77939f5987f830800000000000000
+      internalID: 4104900628962574164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_5
+      name: ss_ryker_idle_01_left_5
       rect:
         serializedVersion: 2
         x: 320
@@ -265,14 +262,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 906782db6b82c9400800000000000000
-      internalID: 332185237841278473
+      spriteID: b59a225031a2265a0800000000000000
+      internalID: -6529610248554895013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_6
+      name: ss_ryker_idle_01_left_6
       rect:
         serializedVersion: 2
         x: 384
@@ -287,14 +284,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ae6256c0a7fb8c10800000000000000
-      internalID: 2057009924718882464
+      spriteID: a05d8d27372a034d0800000000000000
+      internalID: -3156844722054966006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_7
+      name: ss_ryker_idle_01_left_7
       rect:
         serializedVersion: 2
         x: 448
@@ -309,14 +306,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce151083093c58840800000000000000
-      internalID: 5225797966815646188
+      spriteID: 3721ff03cc3985650800000000000000
+      internalID: 6221885390416974451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_ryker_run_left_01_8
+      name: ss_ryker_idle_01_left_8
       rect:
         serializedVersion: 2
         x: 512
@@ -331,30 +328,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b834a1df0375cde80800000000000000
-      internalID: -8152545357531036789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ss_ryker_run_left_01_9
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4588036677fd861e0800000000000000
-      internalID: -2204266313689298860
+      spriteID: 36a52a88de2e91fe0800000000000000
+      internalID: -1217692714399540637
       vertices: []
       indices: 
       edges: []
@@ -363,7 +338,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5d836d499df408747bbc9003e8adcdd3
+    spriteID: 1f8bdc878d2b3624b9cc6bb87683e731
     internalID: 0
     vertices: []
     indices: 
@@ -373,20 +348,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
-      - key: SpriteEditor.SliceOnImport
-        value: True
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      ss_ryker_run_left_01_0: -1801437427539667758
-      ss_ryker_run_left_01_1: 7767017499431808726
-      ss_ryker_run_left_01_2: -9136306596876711527
-      ss_ryker_run_left_01_3: -2382581469449238470
-      ss_ryker_run_left_01_4: 5381788635700475542
-      ss_ryker_run_left_01_5: 332185237841278473
-      ss_ryker_run_left_01_6: 2057009924718882464
-      ss_ryker_run_left_01_7: 5225797966815646188
-      ss_ryker_run_left_01_8: -8152545357531036789
-      ss_ryker_run_left_01_9: -2204266313689298860
+      ss_ryker_idle_01_left_0: -1378701238155959880
+      ss_ryker_idle_01_left_1: -2693439739631577844
+      ss_ryker_idle_01_left_2: -159675995204410127
+      ss_ryker_idle_01_left_3: 6391166302279313953
+      ss_ryker_idle_01_left_4: 4104900628962574164
+      ss_ryker_idle_01_left_5: -6529610248554895013
+      ss_ryker_idle_01_left_6: -3156844722054966006
+      ss_ryker_idle_01_left_7: 6221885390416974451
+      ss_ryker_idle_01_left_8: -1217692714399540637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
