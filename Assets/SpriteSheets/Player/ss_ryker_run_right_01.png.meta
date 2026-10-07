@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: d3d10c7c01f5b6c4aa1dd6d3af24d425
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3008316769292782632
+    second: ss_ryker_run_right_01_0
+  - first:
+      213: -15227272214216893
+    second: ss_ryker_run_right_01_1
+  - first:
+      213: 7918032386991959559
+    second: ss_ryker_run_right_01_2
+  - first:
+      213: 2473093445066508212
+    second: ss_ryker_run_right_01_3
+  - first:
+      213: -5922163912062033799
+    second: ss_ryker_run_right_01_4
+  - first:
+      213: -277486575025762046
+    second: ss_ryker_run_right_01_5
+  - first:
+      213: 5796141276105139332
+    second: ss_ryker_run_right_01_6
+  - first:
+      213: 7739157532087172381
+    second: ss_ryker_run_right_01_7
+  - first:
+      213: 3225863069769053562
+    second: ss_ryker_run_right_01_8
+  - first:
+      213: 470121157746100624
+    second: ss_ryker_run_right_01_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c0c85b920bfb920800000000000000
+      internalID: 3008316769292782632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 96
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ff5c860e6e9cff0800000000000000
+      internalID: -15227272214216893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 95
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea1b2218082ed60800000000000000
+      internalID: 7918032386991959559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_3
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 95
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b74981a261325220800000000000000
+      internalID: 2473093445066508212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 95
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970a7e78c4f30dda0800000000000000
+      internalID: -5922163912062033799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 97
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20156a12e6b262cf0800000000000000
+      internalID: -277486575025762046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_6
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 95
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484e93608c7007050800000000000000
+      internalID: 5796141276105139332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 95
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d38d885c2076b60800000000000000
+      internalID: 7739157532087172381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_8
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 95
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75b2afde5194cc20800000000000000
+      internalID: 3225863069769053562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_ryker_run_right_01_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 95
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990ad0c3b4368600800000000000000
+      internalID: 470121157746100624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ss_ryker_run_right_01_0: 3008316769292782632
+      ss_ryker_run_right_01_1: -15227272214216893
+      ss_ryker_run_right_01_2: 7918032386991959559
+      ss_ryker_run_right_01_3: 2473093445066508212
+      ss_ryker_run_right_01_4: -5922163912062033799
+      ss_ryker_run_right_01_5: -277486575025762046
+      ss_ryker_run_right_01_6: 5796141276105139332
+      ss_ryker_run_right_01_7: 7739157532087172381
+      ss_ryker_run_right_01_8: 3225863069769053562
+      ss_ryker_run_right_01_9: 470121157746100624
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
