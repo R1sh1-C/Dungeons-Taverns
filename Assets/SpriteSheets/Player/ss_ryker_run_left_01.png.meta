@@ -130,10 +130,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_0
       rect:
         serializedVersion: 2
-        x: 106
-        y: 95
+        x: 6
+        y: 0
         width: 55
-        height: 52
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       name: ss_ryker_run_left_01_1
       rect:
         serializedVersion: 2
-        x: 362
-        y: 96
+        x: 70
+        y: 0
         width: 55
         height: 52
       alignment: 0
@@ -174,10 +174,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_2
       rect:
         serializedVersion: 2
-        x: 618
-        y: 95
+        x: 134
+        y: 0
         width: 55
-        height: 52
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +196,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_3
       rect:
         serializedVersion: 2
-        x: 874
-        y: 95
+        x: 198
+        y: 0
         width: 55
-        height: 51
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_4
       rect:
         serializedVersion: 2
-        x: 1129
-        y: 95
-        width: 57
-        height: 53
+        x: 261
+        y: 0
+        width: 56
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +240,8 @@ TextureImporter:
       name: ss_ryker_run_left_01_5
       rect:
         serializedVersion: 2
-        x: 1385
-        y: 97
+        x: 325
+        y: 1
         width: 56
         height: 52
       alignment: 0
@@ -262,10 +262,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_6
       rect:
         serializedVersion: 2
-        x: 1641
-        y: 95
+        x: 389
+        y: 0
         width: 53
-        height: 53
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_7
       rect:
         serializedVersion: 2
-        x: 1897
-        y: 95
+        x: 453
+        y: 0
         width: 53
-        height: 53
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +306,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_8
       rect:
         serializedVersion: 2
-        x: 2153
-        y: 95
+        x: 517
+        y: 0
         width: 53
-        height: 53
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,10 +328,10 @@ TextureImporter:
       name: ss_ryker_run_left_01_9
       rect:
         serializedVersion: 2
-        x: 2409
-        y: 95
+        x: 581
+        y: 0
         width: 55
-        height: 53
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

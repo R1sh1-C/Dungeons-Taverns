@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,10 +96,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -120,19 +120,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,12 +127,12 @@ TextureImporter:
       name: ss_ryker_idle_01_0
       rect:
         serializedVersion: 2
-        x: 100
-        y: 95
+        x: 4
+        y: 0
         width: 43
-        height: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +149,12 @@ TextureImporter:
       name: ss_ryker_idle_01_1
       rect:
         serializedVersion: 2
-        x: 356
-        y: 95
+        x: 68
+        y: 0
         width: 43
-        height: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +171,12 @@ TextureImporter:
       name: ss_ryker_idle_01_2
       rect:
         serializedVersion: 2
-        x: 611
-        y: 95
-        width: 44
-        height: 64
+        x: 132
+        y: 0
+        width: 43
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +193,12 @@ TextureImporter:
       name: ss_ryker_idle_01_3
       rect:
         serializedVersion: 2
-        x: 868
-        y: 95
+        x: 196
+        y: 0
         width: 43
-        height: 62
+        height: 61
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +215,12 @@ TextureImporter:
       name: ss_ryker_idle_01_4
       rect:
         serializedVersion: 2
-        x: 1123
-        y: 95
-        width: 44
-        height: 62
+        x: 260
+        y: 0
+        width: 43
+        height: 61
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +237,12 @@ TextureImporter:
       name: ss_ryker_idle_01_5
       rect:
         serializedVersion: 2
-        x: 1380
-        y: 95
-        width: 44
-        height: 62
+        x: 324
+        y: 0
+        width: 43
+        height: 61
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +259,12 @@ TextureImporter:
       name: ss_ryker_idle_01_6
       rect:
         serializedVersion: 2
-        x: 1636
-        y: 95
+        x: 388
+        y: 0
         width: 42
-        height: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +281,12 @@ TextureImporter:
       name: ss_ryker_idle_01_7
       rect:
         serializedVersion: 2
-        x: 1892
-        y: 95
+        x: 452
+        y: 0
         width: 42
-        height: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,12 +303,12 @@ TextureImporter:
       name: ss_ryker_idle_01_8
       rect:
         serializedVersion: 2
-        x: 2148
-        y: 95
+        x: 516
+        y: 0
         width: 42
-        height: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,7 +325,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 47e7bc95d3202cb49bc477950f59d0ac
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -346,9 +333,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
       ss_ryker_idle_01_0: 3946020982795146067
       ss_ryker_idle_01_1: 1662237175480092771
