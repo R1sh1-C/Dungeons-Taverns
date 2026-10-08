@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
     private InputSystem_Actions controls;
     private Animator animator;
     private Vector2 moveDirection;
+    private Vector2 faceDirection;
     private void Awake()
     {
         controls = new InputSystem_Actions();
@@ -32,8 +33,12 @@ public class PlayerController : MonoBehaviour
     private void Move()
     {
         Vector3 movement = controls.Player.Move.ReadValue<Vector2>();
-        transform.position += (movement * (movementSpeed * 0.001f));
+        transform.position += movement * movementSpeed * Time.deltaTime;
         moveDirection = new Vector2(movement.x, movement.y).normalized;
+        if(moveDirection != new Vector2(0, 0))
+        {
+            faceDirection = moveDirection;
+        }
         Anim();
     }
     private void Anim()
@@ -41,5 +46,7 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("xMovement", moveDirection.x);
         animator.SetFloat("yMovement", moveDirection.y);
         animator.SetFloat("movementMagnitude", moveDirection.magnitude);
+        animator.SetFloat("xFace", faceDirection.x);
+        animator.SetFloat("yFace", faceDirection.y);
     }
 }
