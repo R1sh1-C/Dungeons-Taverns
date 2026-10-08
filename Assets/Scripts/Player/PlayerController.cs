@@ -1,14 +1,14 @@
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Character
 {
-    [SerializeField] float movementSpeed;
     private InputSystem_Actions controls;
     private Animator animator;
     private Vector2 moveDirection;
     private Vector2 faceDirection;
     private void Awake()
     {
+        base.Awake();
         controls = new InputSystem_Actions();
         animator = GetComponent<Animator>();
     }
