@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     private void Awake()
     {
         controls = new InputSystem_Actions();
+        animator = GetComponent<Animator>();
     }
     private void OnEnable()
     {
@@ -22,24 +23,24 @@ public class PlayerController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        animator = GetComponent<Animator>();
+
     }
 
     // Update is called once per frame
     void Update()
     {
         Move();
+        Anim();
     }
     private void Move()
     {
-        Vector3 movement = controls.Player.Move.ReadValue<Vector2>();
-        transform.position += movement * movementSpeed * Time.deltaTime;
-        moveDirection = new Vector2(movement.x, movement.y).normalized;
-        if(moveDirection != new Vector2(0, 0))
+        Vector2 movement = controls.Player.Move.ReadValue<Vector2>();
+        transform.position += (Vector3)(movement * movementSpeed * Time.deltaTime);
+        moveDirection = movement.normalized;
+        if(moveDirection != Vector2.zero)
         {
             faceDirection = moveDirection;
         }
-        Anim();
     }
     private void Anim()
     {
