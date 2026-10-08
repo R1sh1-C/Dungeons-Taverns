@@ -6,10 +6,12 @@ public class Character : MonoBehaviour
     [SerializeField] protected float movementSpeed;
 
     protected float currentHealth;
+    protected Rigidbody2D rb;
 
     protected virtual void Awake()
     {
         currentHealth = maxHealth;
+        rb = GetComponent<Rigidbody2D>();
     }
     protected virtual void TakeDamage(float damage)
     {
@@ -28,5 +30,10 @@ public class Character : MonoBehaviour
     {
         get => movementSpeed;
         set => movementSpeed = value;
+    }
+    public Rigidbody2D Rb
+    {
+        get => rb;
+        set => rb = value;
     }
 }

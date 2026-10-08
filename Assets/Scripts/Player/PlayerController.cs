@@ -20,22 +20,19 @@ public class PlayerController : Character
     {
         controls.Player.Disable();
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-    }
-
     // Update is called once per frame
     void Update()
     {
         Move();
         Anim();
     }
+    private void FixedUpdate()
+    {
+        rb.MovePosition(rb.position + moveDirection * movementSpeed * Time.fixedDeltaTime);
+    }
     private void Move()
     {
         Vector2 movement = controls.Player.Move.ReadValue<Vector2>();
-        transform.position += (Vector3)(movement * movementSpeed * Time.deltaTime);
         moveDirection = movement.normalized;
         if(moveDirection != Vector2.zero)
         {

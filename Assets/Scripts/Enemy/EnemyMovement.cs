@@ -10,6 +10,6 @@ public class EnemyMovement : MonoBehaviour
 
     public void Move(Vector2 direction)
     {
-        transform.position += (Vector3)(enemy.MovementSpeed * direction * Time.deltaTime);
+        enemy.Rb.MovePosition(enemy.Rb.position + direction * enemy.MovementSpeed * Time.fixedDeltaTime);
     }
 }
