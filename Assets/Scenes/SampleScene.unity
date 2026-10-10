@@ -7818,6 +7818,9 @@ GameObject:
   - component: {fileID: 1763848019}
   - component: {fileID: 1763848021}
   - component: {fileID: 1763848022}
+  - component: {fileID: 1763848025}
+  - component: {fileID: 1763848024}
+  - component: {fileID: 1763848026}
   - component: {fileID: 1763848023}
   m_Layer: 0
   m_Name: Player
@@ -7895,8 +7898,8 @@ Transform:
   m_GameObject: {fileID: 1763848018}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.06, y: 0.08, z: 0}
-  m_LocalScale: {x: 8, y: 8, z: 1}
+  m_LocalPosition: {x: -10, y: 0.08, z: 0}
+  m_LocalScale: {x: 4, y: 4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -7936,7 +7939,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   maxHealth: 100
-  movementSpeed: 25
+  movementSpeed: 10
 --- !u!50 &1763848023
 Rigidbody2D:
   serializedVersion: 5
@@ -7964,6 +7967,46 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &1763848024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763848018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc78409dadae464b886b7e6a071ccfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimator
+--- !u!114 &1763848025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763848018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef519f6f5b99004da1f5fec0ccdc6c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
+  attackingMoveSpeedModifier: 0.2
+--- !u!114 &1763848026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763848018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68005642fa2d72543a52a7f2b08c6cc3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
+  attackDamage: 0
+  attackSpeed: 0
+  isAttacking: 0
 --- !u!1 &1861471689
 GameObject:
   m_ObjectHideFlags: 0
@@ -8017,6 +8060,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3190601820465480458, guid: 610af1e25d02b1241aac9f6ea83cd195, type: 3}
+      propertyPath: movementSpeed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4873332887390824856, guid: 610af1e25d02b1241aac9f6ea83cd195, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.09
