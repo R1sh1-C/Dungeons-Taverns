@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: eeabd6f048e2a6a49a0b8b1b117aac51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3274915553202324186
+    second: MUSHROOM_attack_compressed_0
+  - first:
+      213: -6448418897915947409
+    second: MUSHROOM_attack_compressed_1
+  - first:
+      213: 3032374814037595415
+    second: MUSHROOM_attack_compressed_2
+  - first:
+      213: -369231743346729549
+    second: MUSHROOM_attack_compressed_3
+  - first:
+      213: 7788379368209320105
+    second: MUSHROOM_attack_compressed_4
+  - first:
+      213: -3062404809382950261
+    second: MUSHROOM_attack_compressed_5
+  - first:
+      213: 7897299986712844295
+    second: MUSHROOM_attack_compressed_6
+  - first:
+      213: 2901645301564437366
+    second: MUSHROOM_attack_compressed_7
+  - first:
+      213: 7755517044837708858
+    second: MUSHROOM_attack_compressed_8
+  - first:
+      213: 6593086945300137561
+    second: MUSHROOM_attack_compressed_9
+  - first:
+      213: -8477881765812214778
+    second: MUSHROOM_attack_compressed_10
+  - first:
+      213: -1614228304695027812
+    second: MUSHROOM_attack_compressed_11
+  - first:
+      213: -6440922687275343781
+    second: MUSHROOM_attack_compressed_12
+  - first:
+      213: -7393044084173680852
+    second: MUSHROOM_attack_compressed_13
+  - first:
+      213: -1278470676423055088
+    second: MUSHROOM_attack_compressed_14
+  - first:
+      213: 5794082362171311482
+    second: MUSHROOM_attack_compressed_15
+  - first:
+      213: 3465239016323249761
+    second: MUSHROOM_attack_compressed_16
+  - first:
+      213: -6277617770907369086
+    second: MUSHROOM_attack_compressed_17
+  - first:
+      213: 1819060025443411290
+    second: MUSHROOM_attack_compressed_18
+  - first:
+      213: -3524588245906102422
+    second: MUSHROOM_attack_compressed_19
+  - first:
+      213: 8827323900306520079
+    second: MUSHROOM_attack_compressed_20
+  - first:
+      213: 3876690074480718895
+    second: MUSHROOM_attack_compressed_21
+  - first:
+      213: -3534141087270596643
+    second: MUSHROOM_attack_compressed_22
+  - first:
+      213: 5731501632748443346
+    second: MUSHROOM_attack_compressed_23
+  - first:
+      213: 6368479830293601885
+    second: MUSHROOM_attack_compressed_24
+  - first:
+      213: -7109019177033333991
+    second: MUSHROOM_attack_compressed_25
+  - first:
+      213: 3534064639026958159
+    second: MUSHROOM_attack_compressed_26
+  - first:
+      213: 423830133023923606
+    second: MUSHROOM_attack_compressed_27
+  - first:
+      213: 6363179455558377866
+    second: MUSHROOM_attack_compressed_28
+  - first:
+      213: 5734264282123696387
+    second: MUSHROOM_attack_compressed_29
+  - first:
+      213: 726301358571012944
+    second: MUSHROOM_attack_compressed_30
+  - first:
+      213: 7053402270241111542
+    second: MUSHROOM_attack_compressed_31
+  - first:
+      213: 5683224884712940143
+    second: MUSHROOM_attack_compressed_32
+  - first:
+      213: -153509787559975809
+    second: MUSHROOM_attack_compressed_33
+  - first:
+      213: 76181021281901238
+    second: MUSHROOM_attack_compressed_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d39f5d7a92d82d0800000000000000
+      internalID: -3274915553202324186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ddc27d2d9286a0800000000000000
+      internalID: -6448418897915947409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7155d80c3d8251a20800000000000000
+      internalID: 3032374814037595415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 15
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd150a8fa930eaf0800000000000000
+      internalID: -369231743346729549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8091255c1e51c60800000000000000
+      internalID: 7788379368209320105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a084a1d072085d0800000000000000
+      internalID: -3062404809382950261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70857b80f78d89d60800000000000000
+      internalID: 7897299986712844295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673fde73707b44820800000000000000
+      internalID: 2901645301564437366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f90b69a121ab60800000000000000
+      internalID: 7755517044837708858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 15
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95641e325a95f7b50800000000000000
+      internalID: 6593086945300137561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046005a373885a80800000000000000
+      internalID: -8477881765812214778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 15
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c979540d8eb1999e0800000000000000
+      internalID: -1614228304695027812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 15
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e23ff0fe3d96a0800000000000000
+      internalID: -6440922687275343781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f46025391a66990800000000000000
+      internalID: -7393044084173680852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 15
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ec0481b5f14ee0800000000000000
+      internalID: -1278470676423055088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 15
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75c394c537b86050800000000000000
+      internalID: 5794082362171311482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 15
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16675c59680071030800000000000000
+      internalID: 3465239016323249761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_17
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 14
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2810369c5eb61e8a0800000000000000
+      internalID: -6277617770907369086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 15
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55eaa194799e3910800000000000000
+      internalID: 1819060025443411290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_19
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 15
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ef371aa5261fc0800000000000000
+      internalID: -3524588245906102422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_20
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f5137154f08a70800000000000000
+      internalID: 8827323900306520079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_21
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24b4b94515ccc530800000000000000
+      internalID: 3876690074480718895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_22
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf8f13e76534fec0800000000000000
+      internalID: -3534141087270596643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6da814e526a8f40800000000000000
+      internalID: 5731501632748443346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_24
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed3ebf9a2616850800000000000000
+      internalID: 6368479830293601885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_25
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130d7349b0b75d90800000000000000
+      internalID: -7109019177033333991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_26
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f887e90158b0130800000000000000
+      internalID: 3534064639026958159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_27
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5ffba24fb1e500800000000000000
+      internalID: 423830133023923606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_28
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ee92500e8e4850800000000000000
+      internalID: 6363179455558377866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_29
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3097130bbf2349f40800000000000000
+      internalID: 5734264282123696387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_30
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053428dcc37541a00800000000000000
+      internalID: 726301358571012944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_31
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdb7a78ef7b2e160800000000000000
+      internalID: 7053402270241111542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_32
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62a9ffebeedede40800000000000000
+      internalID: 5683224884712940143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_33
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7421fa59af9eddf0800000000000000
+      internalID: -153509787559975809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUSHROOM_attack_compressed_34
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba52283c36ae0100800000000000000
+      internalID: 76181021281901238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MUSHROOM_attack_compressed_0: -3274915553202324186
+      MUSHROOM_attack_compressed_1: -6448418897915947409
+      MUSHROOM_attack_compressed_10: -8477881765812214778
+      MUSHROOM_attack_compressed_11: -1614228304695027812
+      MUSHROOM_attack_compressed_12: -6440922687275343781
+      MUSHROOM_attack_compressed_13: -7393044084173680852
+      MUSHROOM_attack_compressed_14: -1278470676423055088
+      MUSHROOM_attack_compressed_15: 5794082362171311482
+      MUSHROOM_attack_compressed_16: 3465239016323249761
+      MUSHROOM_attack_compressed_17: -6277617770907369086
+      MUSHROOM_attack_compressed_18: 1819060025443411290
+      MUSHROOM_attack_compressed_19: -3524588245906102422
+      MUSHROOM_attack_compressed_2: 3032374814037595415
+      MUSHROOM_attack_compressed_20: 8827323900306520079
+      MUSHROOM_attack_compressed_21: 3876690074480718895
+      MUSHROOM_attack_compressed_22: -3534141087270596643
+      MUSHROOM_attack_compressed_23: 5731501632748443346
+      MUSHROOM_attack_compressed_24: 6368479830293601885
+      MUSHROOM_attack_compressed_25: -7109019177033333991
+      MUSHROOM_attack_compressed_26: 3534064639026958159
+      MUSHROOM_attack_compressed_27: 423830133023923606
+      MUSHROOM_attack_compressed_28: 6363179455558377866
+      MUSHROOM_attack_compressed_29: 5734264282123696387
+      MUSHROOM_attack_compressed_3: -369231743346729549
+      MUSHROOM_attack_compressed_30: 726301358571012944
+      MUSHROOM_attack_compressed_31: 7053402270241111542
+      MUSHROOM_attack_compressed_32: 5683224884712940143
+      MUSHROOM_attack_compressed_33: -153509787559975809
+      MUSHROOM_attack_compressed_34: 76181021281901238
+      MUSHROOM_attack_compressed_4: 7788379368209320105
+      MUSHROOM_attack_compressed_5: -3062404809382950261
+      MUSHROOM_attack_compressed_6: 7897299986712844295
+      MUSHROOM_attack_compressed_7: 2901645301564437366
+      MUSHROOM_attack_compressed_8: 7755517044837708858
+      MUSHROOM_attack_compressed_9: 6593086945300137561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: d22f55afbf465f54a83df26a0f5079c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7848487155469147459
+    second: fungal_spawner_Redcap_0
+  - first:
+      213: 2896960871870351847
+    second: fungal_spawner_Redcap_1
+  - first:
+      213: -6416329878685276462
+    second: fungal_spawner_Redcap_2
+  - first:
+      213: -8830043773427646394
+    second: fungal_spawner_Redcap_3
+  - first:
+      213: -1568677735380162942
+    second: fungal_spawner_Redcap_4
+  - first:
+      213: -1350904357129052782
+    second: fungal_spawner_Redcap_5
+  - first:
+      213: 5423028985267703199
+    second: fungal_spawner_Redcap_6
+  - first:
+      213: 3952888978355813869
+    second: fungal_spawner_Redcap_7
+  - first:
+      213: -5938022932790926541
+    second: fungal_spawner_Redcap_8
+  - first:
+      213: -6292704686860690645
+    second: fungal_spawner_Redcap_9
+  - first:
+      213: -8901102795411740698
+    second: fungal_spawner_Redcap_10
+  - first:
+      213: 4939525783399557229
+    second: fungal_spawner_Redcap_11
+  - first:
+      213: -7556559388978628725
+    second: fungal_spawner_Redcap_12
+  - first:
+      213: -2506033431103919685
+    second: fungal_spawner_Redcap_13
+  - first:
+      213: 4828505242147913191
+    second: fungal_spawner_Redcap_14
+  - first:
+      213: 8672164334245809841
+    second: fungal_spawner_Redcap_15
+  - first:
+      213: -6742075146598488993
+    second: fungal_spawner_Redcap_16
+  - first:
+      213: 592298803557384758
+    second: fungal_spawner_Redcap_17
+  - first:
+      213: -4608745440534887266
+    second: fungal_spawner_Redcap_18
+  - first:
+      213: -5830997505331475586
+    second: fungal_spawner_Redcap_19
+  - first:
+      213: 5425681927074390408
+    second: fungal_spawner_Redcap_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2ab02e382941390800000000000000
+      internalID: -7848487155469147459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9c9007092143820800000000000000
+      internalID: 2896960871870351847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 13
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d62d3378fd94f6a0800000000000000
+      internalID: -6416329878685276462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64002bdb8f1657580800000000000000
+      internalID: -8830043773427646394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e99f29efea3ae0800000000000000
+      internalID: -1568677735380162942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d9bc305af904de0800000000000000
+      internalID: -1350904357129052782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 13
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d47813128724b40800000000000000
+      internalID: 5423028985267703199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 13
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded747f159b7bd630800000000000000
+      internalID: 3952888978355813869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 13
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333afd68a97e79da0800000000000000
+      internalID: -5938022932790926541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 13
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b9b3f6d62dba8a0800000000000000
+      internalID: -6292704686860690645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_10
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 13
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e72f3aea2ee87480800000000000000
+      internalID: -8901102795411740698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 13
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68e96e7788bc8440800000000000000
+      internalID: 4939525783399557229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 13
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8739c7a545b12790800000000000000
+      internalID: -7556559388978628725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 13
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb92cc73fd7c83dd0800000000000000
+      internalID: -2506033431103919685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_14
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 12
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed765a6feb420340800000000000000
+      internalID: 4828505242147913191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_15
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 13
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be8880d387b95870800000000000000
+      internalID: 8672164334245809841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_16
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 13
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54e10e00665f62a0800000000000000
+      internalID: -6742075146598488993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_17
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6324deaaf94483800800000000000000
+      internalID: 592298803557384758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_18
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 12
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9487b4a0727a00c0800000000000000
+      internalID: -4608745440534887266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_19
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 16
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4780b9a2241fa0800000000000000
+      internalID: -5830997505331475586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungal_spawner_Redcap_20
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 16
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a68757f4eb4b40800000000000000
+      internalID: 5425681927074390408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fungal_spawner_Redcap_0: -7848487155469147459
+      fungal_spawner_Redcap_1: 2896960871870351847
+      fungal_spawner_Redcap_10: -8901102795411740698
+      fungal_spawner_Redcap_11: 4939525783399557229
+      fungal_spawner_Redcap_12: -7556559388978628725
+      fungal_spawner_Redcap_13: -2506033431103919685
+      fungal_spawner_Redcap_14: 4828505242147913191
+      fungal_spawner_Redcap_15: 8672164334245809841
+      fungal_spawner_Redcap_16: -6742075146598488993
+      fungal_spawner_Redcap_17: 592298803557384758
+      fungal_spawner_Redcap_18: -4608745440534887266
+      fungal_spawner_Redcap_19: -5830997505331475586
+      fungal_spawner_Redcap_2: -6416329878685276462
+      fungal_spawner_Redcap_20: 5425681927074390408
+      fungal_spawner_Redcap_3: -8830043773427646394
+      fungal_spawner_Redcap_4: -1568677735380162942
+      fungal_spawner_Redcap_5: -1350904357129052782
+      fungal_spawner_Redcap_6: 5423028985267703199
+      fungal_spawner_Redcap_7: 3952888978355813869
+      fungal_spawner_Redcap_8: -5938022932790926541
+      fungal_spawner_Redcap_9: -6292704686860690645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
