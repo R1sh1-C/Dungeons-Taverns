@@ -28,4 +28,8 @@ public class PlayerAnimator : MonoBehaviour
     {
         animator.SetTrigger("Attack");
     }
+    public void ComboStart(bool comboState)
+    {
+        animator.SetBool("ComboQueued", comboState);
+    }
 }

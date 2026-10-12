@@ -6,6 +6,7 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private float attackSpeed;
     [SerializeField] private bool isAttacking = false;
     private PlayerAnimator animator;
+    private bool comboQueued = false;
 
     public bool IsAttacking => isAttacking;
     private void Awake()
@@ -19,11 +20,24 @@ public class PlayerAttack : MonoBehaviour
     }
     public void Attack()
     {
-        isAttacking = true;
-        animator.PlayAttack();
+        if (!isAttacking)
+        {
+            isAttacking = true;
+            animator.PlayAttack();
+        }
+        else if (isAttacking)
+        {
+            comboQueued = true;
+            animator.ComboStart(comboQueued);
+        }
     }
     public void AttackEnd()
     {
         isAttacking = false;
+    }
+    public void ComboEnd()
+    {
+        comboQueued = false;
+        animator.ComboStart(comboQueued);
     }
 }

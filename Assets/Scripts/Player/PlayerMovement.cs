@@ -23,7 +23,6 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         float currentSpeed = character.MovementSpeed;
-        Debug.Log(attack.IsAttacking);
         if (attack.IsAttacking)
         {
             currentSpeed *= attackingMoveSpeedModifier;
@@ -32,6 +31,7 @@ public class PlayerMovement : MonoBehaviour
             rb.position +
             moveDirection * currentSpeed * Time.fixedDeltaTime
         );
+        Debug.Log(currentSpeed);
     }
 
     public void SetMovement(Vector2 movement)
