@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 41fb7c2563817c54e84fc2be8238ae60
+guid: de42063795a250442ae61687056c4452
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6192745114084445134
-    second: ground_cover_A_0
+      213: 2116016664818584456
+    second: White_cluster_mushroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ground_cover_A_0
+      name: White_cluster_mushroom_0
       rect:
         serializedVersion: 2
-        x: 71
-        y: 88
-        width: 121
-        height: 44
+        x: 21
+        y: 14
+        width: 29
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 234f57a1123fe0aa0800000000000000
-      internalID: -6192745114084445134
+      spriteID: 88b815d02f99d5d10800000000000000
+      internalID: 2116016664818584456
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ground_cover_A_0: -6192745114084445134
+      White_cluster_mushroom_0: 2116016664818584456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

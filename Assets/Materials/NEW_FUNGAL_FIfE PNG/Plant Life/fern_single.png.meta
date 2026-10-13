@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cd05c5f18123f25429bdff7ea2c42b55
+guid: af2d04da3b44e754e96cf5d45840a32b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5865698164343566979
-    second: ground_cover_B_0
+      213: -6339951706662611363
+    second: fern_single_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ground_cover_B_0
+      name: fern_single_0
       rect:
         serializedVersion: 2
-        x: 64
-        y: 84
-        width: 128
-        height: 47
+        x: 25
+        y: 15
+        width: 18
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7d04aae89ad89ea0800000000000000
-      internalID: -5865698164343566979
+      spriteID: d565e376387f308a0800000000000000
+      internalID: -6339951706662611363
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ground_cover_B_0: -5865698164343566979
+      fern_single_0: -6339951706662611363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
