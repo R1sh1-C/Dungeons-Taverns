@@ -7940,7 +7940,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   maxHealth: 100
-  movementSpeed: 10
+  movementSpeed: 11
 --- !u!50 &1763848023
 Rigidbody2D:
   serializedVersion: 5
