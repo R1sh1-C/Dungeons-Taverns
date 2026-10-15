@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: e8db19dc2f421c648acbb8334b986b93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2724951274070356362
+    second: Mushkin_attack_0
+  - first:
+      213: 3993850411601115184
+    second: Mushkin_attack_1
+  - first:
+      213: -7426671809242255501
+    second: Mushkin_attack_2
+  - first:
+      213: -539141198673139809
+    second: Mushkin_attack_3
+  - first:
+      213: 519234720497856599
+    second: Mushkin_attack_4
+  - first:
+      213: -859801501341405480
+    second: Mushkin_attack_5
+  - first:
+      213: -8137715846049630709
+    second: Mushkin_attack_6
+  - first:
+      213: -49245808911882394
+    second: Mushkin_attack_7
+  - first:
+      213: 5149753004890499772
+    second: Mushkin_attack_8
+  - first:
+      213: -2073638450770473190
+    second: Mushkin_attack_9
+  - first:
+      213: -5209176190066028552
+    second: Mushkin_attack_10
+  - first:
+      213: -4777808218210976210
+    second: Mushkin_attack_11
+  - first:
+      213: -461390666566870472
+    second: Mushkin_attack_12
+  - first:
+      213: 4756587451124758713
+    second: Mushkin_attack_13
+  - first:
+      213: 3361654158697215338
+    second: Mushkin_attack_14
+  - first:
+      213: 7604126938853678324
+    second: Mushkin_attack_15
+  - first:
+      213: 9013907764026455107
+    second: Mushkin_attack_16
+  - first:
+      213: -3596233766497972828
+    second: Mushkin_attack_17
+  - first:
+      213: -751129662700531827
+    second: Mushkin_attack_18
+  - first:
+      213: -913632402754281994
+    second: Mushkin_attack_19
+  - first:
+      213: -9091511037764516439
+    second: Mushkin_attack_20
+  - first:
+      213: -7419305860884826542
+    second: Mushkin_attack_21
+  - first:
+      213: -8110090823730680423
+    second: Mushkin_attack_22
+  - first:
+      213: -5801519704732681471
+    second: Mushkin_attack_23
+  - first:
+      213: 8020735537590028942
+    second: Mushkin_attack_24
+  - first:
+      213: 1689025141619656819
+    second: Mushkin_attack_25
+  - first:
+      213: -3101999699143706389
+    second: Mushkin_attack_26
+  - first:
+      213: -2784645129446948067
+    second: Mushkin_attack_27
+  - first:
+      213: 7554493897015723760
+    second: Mushkin_attack_28
+  - first:
+      213: -8810185791576992585
+    second: Mushkin_attack_29
+  - first:
+      213: 6133238152798761212
+    second: Mushkin_attack_30
+  - first:
+      213: -4075921062400871234
+    second: Mushkin_attack_31
+  - first:
+      213: -1810513639995204157
+    second: Mushkin_attack_32
+  - first:
+      213: -1955539162735123083
+    second: Mushkin_attack_33
+  - first:
+      213: -7687220790890305798
+    second: Mushkin_attack_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushkin_attack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8136311fb8f0d520800000000000000
+      internalID: 2724951274070356362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038388df9c10d6730800000000000000
+      internalID: 3993850411601115184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f25b276592fe890800000000000000
+      internalID: -7426671809242255501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 15
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f972f41bfe59488f0800000000000000
+      internalID: -539141198673139809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750f25e2a31b43700800000000000000
+      internalID: 519234720497856599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dea237071f5114f0800000000000000
+      internalID: -859801501341405480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f421bd86011f80800000000000000
+      internalID: -8137715846049630709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667612d923b015ff0800000000000000
+      internalID: -49245808911882394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaaf79c219977740800000000000000
+      internalID: 5149753004890499772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 15
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f0c3dc0d4f833e0800000000000000
+      internalID: -2073638450770473190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff01b2cad945b7b0800000000000000
+      internalID: -5209176190066028552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 15
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eb79c4db0d1bdb0800000000000000
+      internalID: -4777808218210976210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 15
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ad99022afc899f0800000000000000
+      internalID: -461390666566870472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83f57d51bc20240800000000000000
+      internalID: 4756587451124758713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 15
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65bcd285aef6ae20800000000000000
+      internalID: 3361654158697215338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 15
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc1a599929478960800000000000000
+      internalID: 7604126938853678324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 15
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344bee88a55d71d70800000000000000
+      internalID: 9013907764026455107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 14
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad8f9a617c971ec0800000000000000
+      internalID: -3596233766497972828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 15
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fc97a2d837395f0800000000000000
+      internalID: -751129662700531827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 15
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd5b8a9b202253f0800000000000000
+      internalID: -913632402754281994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_20
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5c08a41e674d180800000000000000
+      internalID: -9091511037764516439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_21
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567cf1f0a4590990800000000000000
+      internalID: -7419305860884826542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_22
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99da06b6d5b237f80800000000000000
+      internalID: -8110090823730680423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bbaf9f09cdc7fa0800000000000000
+      internalID: -5801519704732681471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_24
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac76bc9706f4f60800000000000000
+      internalID: 8020735537590028942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_25
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37881feda6f907710800000000000000
+      internalID: 1689025141619656819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_26
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8bb2f65bb73f4d0800000000000000
+      internalID: -3101999699143706389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_27
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 14
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130bc92204fa59d0800000000000000
+      internalID: -2784645129446948067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_28
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f68a758c24f6d860800000000000000
+      internalID: 7554493897015723760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_29
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b41cdf63beebb580800000000000000
+      internalID: -8810185791576992585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_30
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0717cca93ad1550800000000000000
+      internalID: 6133238152798761212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_31
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 14
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4301f836b6f67c0800000000000000
+      internalID: -4075921062400871234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_32
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd161bdf63cfd6e0800000000000000
+      internalID: -1810513639995204157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_33
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575eecc0e778cd4e0800000000000000
+      internalID: -1955539162735123083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_attack_34
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af66cf85b61815590800000000000000
+      internalID: -7687220790890305798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mushkin_attack_0: 2724951274070356362
+      Mushkin_attack_1: 3993850411601115184
+      Mushkin_attack_10: -5209176190066028552
+      Mushkin_attack_11: -4777808218210976210
+      Mushkin_attack_12: -461390666566870472
+      Mushkin_attack_13: 4756587451124758713
+      Mushkin_attack_14: 3361654158697215338
+      Mushkin_attack_15: 7604126938853678324
+      Mushkin_attack_16: 9013907764026455107
+      Mushkin_attack_17: -3596233766497972828
+      Mushkin_attack_18: -751129662700531827
+      Mushkin_attack_19: -913632402754281994
+      Mushkin_attack_2: -7426671809242255501
+      Mushkin_attack_20: -9091511037764516439
+      Mushkin_attack_21: -7419305860884826542
+      Mushkin_attack_22: -8110090823730680423
+      Mushkin_attack_23: -5801519704732681471
+      Mushkin_attack_24: 8020735537590028942
+      Mushkin_attack_25: 1689025141619656819
+      Mushkin_attack_26: -3101999699143706389
+      Mushkin_attack_27: -2784645129446948067
+      Mushkin_attack_28: 7554493897015723760
+      Mushkin_attack_29: -8810185791576992585
+      Mushkin_attack_3: -539141198673139809
+      Mushkin_attack_30: 6133238152798761212
+      Mushkin_attack_31: -4075921062400871234
+      Mushkin_attack_32: -1810513639995204157
+      Mushkin_attack_33: -1955539162735123083
+      Mushkin_attack_34: -7687220790890305798
+      Mushkin_attack_4: 519234720497856599
+      Mushkin_attack_5: -859801501341405480
+      Mushkin_attack_6: -8137715846049630709
+      Mushkin_attack_7: -49245808911882394
+      Mushkin_attack_8: 5149753004890499772
+      Mushkin_attack_9: -2073638450770473190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

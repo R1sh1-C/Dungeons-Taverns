@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 59114a829c60a8b4997dc173119286ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7431388732203418455
+    second: Mushkin_Fungal_spawner_0
+  - first:
+      213: 6109227548568132517
+    second: Mushkin_Fungal_spawner_1
+  - first:
+      213: 3531212069309180137
+    second: Mushkin_Fungal_spawner_2
+  - first:
+      213: -1088406283456333493
+    second: Mushkin_Fungal_spawner_3
+  - first:
+      213: 6609402611141475285
+    second: Mushkin_Fungal_spawner_4
+  - first:
+      213: 3206246136554949156
+    second: Mushkin_Fungal_spawner_5
+  - first:
+      213: -6774141895402320390
+    second: Mushkin_Fungal_spawner_6
+  - first:
+      213: 3067529258761916879
+    second: Mushkin_Fungal_spawner_7
+  - first:
+      213: 5122372084682313545
+    second: Mushkin_Fungal_spawner_8
+  - first:
+      213: -3747949033532759393
+    second: Mushkin_Fungal_spawner_9
+  - first:
+      213: -5761561368929107736
+    second: Mushkin_Fungal_spawner_10
+  - first:
+      213: 5473912539336510835
+    second: Mushkin_Fungal_spawner_11
+  - first:
+      213: -9067904717253067449
+    second: Mushkin_Fungal_spawner_12
+  - first:
+      213: -4790723342353022996
+    second: Mushkin_Fungal_spawner_13
+  - first:
+      213: -938279581663677372
+    second: Mushkin_Fungal_spawner_14
+  - first:
+      213: 2061796021739466604
+    second: Mushkin_Fungal_spawner_15
+  - first:
+      213: -6235825482716259013
+    second: Mushkin_Fungal_spawner_16
+  - first:
+      213: 1799973462870352528
+    second: Mushkin_Fungal_spawner_17
+  - first:
+      213: 756161817780126722
+    second: Mushkin_Fungal_spawner_18
+  - first:
+      213: -6099169656506636509
+    second: Mushkin_Fungal_spawner_19
+  - first:
+      213: 5997241343614637254
+    second: Mushkin_Fungal_spawner_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75343d2cda8912760800000000000000
+      internalID: 7431388732203418455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab1f6c561658c450800000000000000
+      internalID: 6109227548568132517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 13
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8eeb9faa2610130800000000000000
+      internalID: 3531212069309180137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b493847704435e0f0800000000000000
+      internalID: -1088406283456333493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db70ae18a059bb50800000000000000
+      internalID: 6609402611141475285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a83dfafdfde7c20800000000000000
+      internalID: 3206246136554949156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 13
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd047a46d96df1a0800000000000000
+      internalID: -6774141895402320390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 13
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc11f9ebb9d029a20800000000000000
+      internalID: 3067529258761916879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 13
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fcdd28542561740800000000000000
+      internalID: 5122372084682313545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 13
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e204263c9cfbc0800000000000000
+      internalID: -3747949033532759393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_10
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 13
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e00e550672da00b0800000000000000
+      internalID: -5761561368929107736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 13
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d85b6d37e37fb40800000000000000
+      internalID: 5473912539336510835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 13
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dba0714b4582280800000000000000
+      internalID: -9067904717253067449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 13
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef30e1a08ee38db0800000000000000
+      internalID: -4790723342353022996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_14
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 12
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4443fe211bf8af2f0800000000000000
+      internalID: -938279581663677372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_15
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 13
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2813de88fc9c10800000000000000
+      internalID: 2061796021739466604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_16
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 13
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d5e5523c5e579a0800000000000000
+      internalID: -6235825482716259013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_17
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092648be35acaf810800000000000000
+      internalID: 1799973462870352528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_18
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 12
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048f7dba2d6e7a00800000000000000
+      internalID: 756161817780126722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_19
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 16
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a41f13856b5ba0800000000000000
+      internalID: -6099169656506636509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_Fungal_spawner_20
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 16
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4df6e2a3b7a3350800000000000000
+      internalID: 5997241343614637254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mushkin_Fungal_spawner_0: 7431388732203418455
+      Mushkin_Fungal_spawner_1: 6109227548568132517
+      Mushkin_Fungal_spawner_10: -5761561368929107736
+      Mushkin_Fungal_spawner_11: 5473912539336510835
+      Mushkin_Fungal_spawner_12: -9067904717253067449
+      Mushkin_Fungal_spawner_13: -4790723342353022996
+      Mushkin_Fungal_spawner_14: -938279581663677372
+      Mushkin_Fungal_spawner_15: 2061796021739466604
+      Mushkin_Fungal_spawner_16: -6235825482716259013
+      Mushkin_Fungal_spawner_17: 1799973462870352528
+      Mushkin_Fungal_spawner_18: 756161817780126722
+      Mushkin_Fungal_spawner_19: -6099169656506636509
+      Mushkin_Fungal_spawner_2: 3531212069309180137
+      Mushkin_Fungal_spawner_20: 5997241343614637254
+      Mushkin_Fungal_spawner_3: -1088406283456333493
+      Mushkin_Fungal_spawner_4: 6609402611141475285
+      Mushkin_Fungal_spawner_5: 3206246136554949156
+      Mushkin_Fungal_spawner_6: -6774141895402320390
+      Mushkin_Fungal_spawner_7: 3067529258761916879
+      Mushkin_Fungal_spawner_8: 5122372084682313545
+      Mushkin_Fungal_spawner_9: -3747949033532759393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

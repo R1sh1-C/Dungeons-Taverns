@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: c4c76d90fad25a5488c6ae2c1203bf12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2740961364535832200
+    second: Mushkin_idle_0
+  - first:
+      213: 7442739944614503992
+    second: Mushkin_idle_1
+  - first:
+      213: 1677559603942952518
+    second: Mushkin_idle_2
+  - first:
+      213: 8061392189489983022
+    second: Mushkin_idle_3
+  - first:
+      213: -6554174468019306773
+    second: Mushkin_idle_4
+  - first:
+      213: 5457422959684136037
+    second: Mushkin_idle_5
+  - first:
+      213: 253489493789950940
+    second: Mushkin_idle_6
+  - first:
+      213: -2002530611484721123
+    second: Mushkin_idle_7
+  - first:
+      213: -3368145076094817605
+    second: Mushkin_idle_8
+  - first:
+      213: -3238034687907487363
+    second: Mushkin_idle_9
+  - first:
+      213: -7101230241973016042
+    second: Mushkin_idle_10
+  - first:
+      213: 2915924365714535709
+    second: Mushkin_idle_11
+  - first:
+      213: 553632221600293384
+    second: Mushkin_idle_12
+  - first:
+      213: -7125691184451580782
+    second: Mushkin_idle_13
+  - first:
+      213: -9030032835818072687
+    second: Mushkin_idle_14
+  - first:
+      213: -45562429641475232
+    second: Mushkin_idle_15
+  - first:
+      213: -4577890831504561425
+    second: Mushkin_idle_16
+  - first:
+      213: -8480161495891172790
+    second: Mushkin_idle_17
+  - first:
+      213: 586961417213796211
+    second: Mushkin_idle_18
+  - first:
+      213: -8709820396363680077
+    second: Mushkin_idle_19
+  - first:
+      213: -5637755551584587099
+    second: Mushkin_idle_20
+  - first:
+      213: 7677435775201639813
+    second: Mushkin_idle_21
+  - first:
+      213: -8400122809136261973
+    second: Mushkin_idle_22
+  - first:
+      213: -7292437510733253443
+    second: Mushkin_idle_23
+  - first:
+      213: -7329286312948572574
+    second: Mushkin_idle_24
+  - first:
+      213: 653697019353251862
+    second: Mushkin_idle_25
+  - first:
+      213: -5905760956530445942
+    second: Mushkin_idle_26
+  - first:
+      213: 6634293127967293667
+    second: Mushkin_idle_27
+  - first:
+      213: 2409447662853581349
+    second: Mushkin_idle_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushkin_idle_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e6a3cb6d9d90620800000000000000
+      internalID: 2740961364535832200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836ab5adb8ce94760800000000000000
+      internalID: 7442739944614503992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e809a5293e74710800000000000000
+      internalID: 1677559603942952518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ea8a93c71dfdf60800000000000000
+      internalID: 8061392189489983022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee36cdfb05ea05a0800000000000000
+      internalID: -6554174468019306773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca8056449acbb40800000000000000
+      internalID: 5457422959684136037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3c4aff953948300800000000000000
+      internalID: 253489493789950940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d108b9ac4059534e0800000000000000
+      internalID: -2002530611484721123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba236306e1f141d0800000000000000
+      internalID: -3368145076094817605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71a1e07b903013d0800000000000000
+      internalID: -3238034687907487363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aefe608bc537d90800000000000000
+      internalID: -7101230241973016042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15325ae2c1777820800000000000000
+      internalID: 2915924365714535709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80222b08295eea700800000000000000
+      internalID: 553632221600293384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c81ab0f957c1d90800000000000000
+      internalID: -7125691184451580782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19553fe9af0eea280800000000000000
+      internalID: -9030032835818072687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bbd1e26312e5ff0800000000000000
+      internalID: -45562429641475232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea27af1b801870c0800000000000000
+      internalID: -4577890831504561425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42267f9c0a605a80800000000000000
+      internalID: -8480161495891172790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 15
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f53e19c4e452800800000000000000
+      internalID: 586961417213796211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 15
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b67a410f70802780800000000000000
+      internalID: -8709820396363680077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 15
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27059223ba2c1b0800000000000000
+      internalID: -5637755551584587099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 15
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58df4c6292bbb8a60800000000000000
+      internalID: 7677435775201639813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 15
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4d6c39fc4cc6b80800000000000000
+      internalID: -8400122809136261973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 15
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4b20298be0cca90800000000000000
+      internalID: -7292437510733253443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_24
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e519b3ee4294a90800000000000000
+      internalID: -7329286312948572574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_25
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6104845c9f5621900800000000000000
+      internalID: 653697019353251862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 15
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81b1a933b58a0ea0800000000000000
+      internalID: -5905760956530445942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e04e4c237eb11c50800000000000000
+      internalID: 6634293127967293667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushkin_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a684132e3107120800000000000000
+      internalID: 2409447662853581349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mushkin_idle_0: 2740961364535832200
+      Mushkin_idle_1: 7442739944614503992
+      Mushkin_idle_10: -7101230241973016042
+      Mushkin_idle_11: 2915924365714535709
+      Mushkin_idle_12: 553632221600293384
+      Mushkin_idle_13: -7125691184451580782
+      Mushkin_idle_14: -9030032835818072687
+      Mushkin_idle_15: -45562429641475232
+      Mushkin_idle_16: -4577890831504561425
+      Mushkin_idle_17: -8480161495891172790
+      Mushkin_idle_18: 586961417213796211
+      Mushkin_idle_19: -8709820396363680077
+      Mushkin_idle_2: 1677559603942952518
+      Mushkin_idle_20: -5637755551584587099
+      Mushkin_idle_21: 7677435775201639813
+      Mushkin_idle_22: -8400122809136261973
+      Mushkin_idle_23: -7292437510733253443
+      Mushkin_idle_24: -7329286312948572574
+      Mushkin_idle_25: 653697019353251862
+      Mushkin_idle_26: -5905760956530445942
+      Mushkin_idle_27: 6634293127967293667
+      Mushkin_idle_28: 2409447662853581349
+      Mushkin_idle_3: 8061392189489983022
+      Mushkin_idle_4: -6554174468019306773
+      Mushkin_idle_5: 5457422959684136037
+      Mushkin_idle_6: 253489493789950940
+      Mushkin_idle_7: -2002530611484721123
+      Mushkin_idle_8: -3368145076094817605
+      Mushkin_idle_9: -3238034687907487363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
