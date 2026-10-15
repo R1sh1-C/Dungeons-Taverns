@@ -1,17 +1,12 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement : CharacterMovement
 {
     private Rigidbody2D rb;
     private Character character;
     private PlayerAttack attack;
 
-    private Vector2 moveDirection;
-    private Vector2 faceDirection;
-
     [SerializeField] private float attackingMoveSpeedModifier;
-    public Vector2 MoveDirection => moveDirection;
-    public Vector2 FaceDirection => faceDirection;
 
     private void Awake()
     {
@@ -32,15 +27,5 @@ public class PlayerMovement : MonoBehaviour
             moveDirection * currentSpeed * Time.fixedDeltaTime
         );
         Debug.Log(currentSpeed);
-    }
-
-    public void SetMovement(Vector2 movement)
-    {
-        moveDirection = movement.normalized;
-
-        if (moveDirection != Vector2.zero)
-        {
-            faceDirection = moveDirection;
-        }
     }
 }
