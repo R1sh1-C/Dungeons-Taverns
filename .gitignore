@@ -74,3 +74,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/Scenes/SampleScene.unity
+Assets/SpriteSheets/Enemies/Mushkin Sprites/Mushkin_attack.png.meta
