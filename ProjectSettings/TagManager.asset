@@ -48,6 +48,12 @@ TagManager:
   - name: Entities
     uniqueID: 4044974303
     locked: 0
+  - name: Ground Decor
+    uniqueID: 3515827139
+    locked: 0
+  - name: player/enmies
+    uniqueID: 3408430969
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
