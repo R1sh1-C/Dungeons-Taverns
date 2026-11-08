@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    [SerializeField] private float attackDamage;
-    [SerializeField] private float attackSpeed;
     [SerializeField] private bool isAttacking = false;
+    [SerializeField] private AttackData[] attackDatas;
+    [SerializeField] private AttackHitbox attackHitbox;
+    private AttackData currentData;
     private PlayerAnimator animator;
     private bool comboQueued = false;
 
@@ -13,10 +14,10 @@ public class PlayerAttack : MonoBehaviour
     {
         animator = GetComponent<PlayerAnimator>();
     }
-    // Update is called once per frame
-    void Update()
+    public void SetCurrentAttack(int i)
     {
-
+        currentData = attackDatas[i];
+        attackHitbox.Damage = currentData.Damage;
     }
     public void Attack()
     {

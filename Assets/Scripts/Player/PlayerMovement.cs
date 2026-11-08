@@ -2,16 +2,13 @@ using UnityEngine;
 
 public class PlayerMovement : CharacterMovement
 {
-    private Rigidbody2D rb;
-    private Character character;
     private PlayerAttack attack;
 
     [SerializeField] private float attackingMoveSpeedModifier;
 
     private void Awake()
     {
-        rb = GetComponent<Rigidbody2D>();
-        character = GetComponent<Character>();
+        base.Awake();
         attack = GetComponent<PlayerAttack>();
     }
 
@@ -22,10 +19,9 @@ public class PlayerMovement : CharacterMovement
         {
             currentSpeed *= attackingMoveSpeedModifier;
         }
-        rb.MovePosition(
-            rb.position +
+        character.Rb.MovePosition(
+            character.Rb.position +
             moveDirection * currentSpeed * Time.fixedDeltaTime
         );
-        Debug.Log(currentSpeed);
     }
 }

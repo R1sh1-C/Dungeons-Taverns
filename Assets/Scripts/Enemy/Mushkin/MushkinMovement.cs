@@ -5,6 +5,7 @@ public class MushkinMovement : CharacterMovement
     private Enemy enemy;
     private void Awake()
     {
+        base.Awake();
         enemy = GetComponent<Enemy>();
     }
 
