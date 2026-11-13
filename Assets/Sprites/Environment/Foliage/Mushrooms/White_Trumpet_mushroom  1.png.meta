@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: da431e5988d69d94b87f9cb78935f4ed
+guid: e37098d1554d2be48862285491fa1451
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2435755515215796347
-    second: Short_Red_cap_0
+      213: 2510858496466077867
+    second: White_Trumpet_mushroom  1_0
+  - first:
+      213: 8349901385815736482
+    second: White_Trumpet_mushroom  1_1
+  - first:
+      213: 5311875461023292184
+    second: White_Trumpet_mushroom  1_2
+  - first:
+      213: -8635357967545705602
+    second: White_Trumpet_mushroom  1_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,23 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Short_Red_cap_0
+      name: White_Trumpet_mushroom  1_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 5
-        width: 114
-        height: 95
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b78d2246cba8dc120800000000000000
-      internalID: 2435755515215796347
+      spriteID: ba8c12bdf7c58d220800000000000000
+      internalID: 2510858496466077867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Trumpet_mushroom  1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0c61b121fc0e370800000000000000
+      internalID: 8349901385815736482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Trumpet_mushroom  1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b5869969297b940800000000000000
+      internalID: 5311875461023292184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Trumpet_mushroom  1_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b591c3eab092880800000000000000
+      internalID: -8635357967545705602
       vertices: []
       indices: 
       edges: []
@@ -125,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e6a0f6de26f4f684bbfd850ce0264e5f
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +208,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Short_Red_cap_0: 2435755515215796347
+      White_Trumpet_mushroom  1_0: 2510858496466077867
+      White_Trumpet_mushroom  1_1: 8349901385815736482
+      White_Trumpet_mushroom  1_2: 5311875461023292184
+      White_Trumpet_mushroom  1_3: -8635357967545705602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
